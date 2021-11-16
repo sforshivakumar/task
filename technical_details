@@ -22,4 +22,3 @@ var Device_Locator=[{
     XMP_SPD_Support:"No"
 }]
 
-console.log(Device_Locator[0].Manufacturer)
